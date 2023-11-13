@@ -1,5 +1,8 @@
-use dfs_implementation::dfs_init::{from_pairs, dfs, topological_sort};
-
+use dfs_implementation::dfs_init::{
+    from_pairs,
+    dfs,
+    topological_sort
+};
 
 fn main() {
     // let pairs = [(1, 2), (2, 1)];
